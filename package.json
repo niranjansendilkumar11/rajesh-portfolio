@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+     "homepage": "https://niranjansendilkumar11.github.io/rajesh-portfolio",
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
