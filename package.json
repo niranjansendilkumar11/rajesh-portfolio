@@ -2,13 +2,13 @@
   "name": "rajesh-portfolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://niranjansendilkumar11.github.io/rajesh-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
-     "homepage": "https://niranjansendilkumar11.github.io/rajesh-portfolio",
+    "preview": "vite preview"     
   },
   "dependencies": {
     "@gsap/react": "^2.1.1",
